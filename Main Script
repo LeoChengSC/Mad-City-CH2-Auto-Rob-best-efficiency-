@@ -1,0 +1,8 @@
+--[[
+Name: MadCityFarm
+By: Brizzy
+Join their Discord: https://discord.gg/pYqXjH6c8W
+]]--
+
+loadstring(game:HttpGet('https://scripts.luawl.com/11900/MadcityFarm.lua'))()
+--Key: Frost_27824375
